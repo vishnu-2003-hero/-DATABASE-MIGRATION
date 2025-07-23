@@ -20,6 +20,3 @@ Key steps and responsibilities included:
 -  Integrity Checks: Performed row counts, key constraints, and randomized sample comparisons to ensure data consistency
 -  Error Resolution: Debugged migration issues such as data type mismatches, encoding problems, and index re-creation
 This task sharpened my expertise in relational database architecture, cross-platform SQL compliance, and meticulous testing to guarantee migration fidelity.
-
-Want me to stylize this into a LinkedIn bullet list or pitch it as part of a personal project? Or even turn it into a short presentation script? I’ve got your back, Yamini! 🧠⚙️
-
